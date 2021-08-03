@@ -2,7 +2,7 @@
 A basic example of Class and Objects in Swift
 
 
-We have course and each course has course no, course name,, course hours per week
+We have course and each course has course no, course name, course hours per week
 
 Suppose we have 10 courses you need to create class for the course and in the main fill the 10 courses in n array
 In the course class : you need to create the init, and print course details function and a function to calculate and return the course fees as follows:
