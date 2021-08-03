@@ -1,2 +1,2 @@
-# Java-Api-REST-Project
-A basic example of a API REST with Java
+# Swift-Simple-Class-Object-Example
+A basic example of Class and Objects in Swift
